@@ -22,7 +22,7 @@
 
 </div>
 <div align="left">
-  <img width="1171" height="516" alt="diagramaIncidencias drawio" src="https://github.com/user-attachments/assets/169b5e26-c53a-4ab4-9dbe-8bec1f661807" />
+  <img width="1171" height="516" alt="diagramaIncidencias drawio" src="https://github.com/CristopherAlejandro27/PROYECTO-PYTHON-XD/blob/main/diagramas/DiagramaIncidencias.drawio.svg?short_path=8d16e59" />
 </div>
 
 ###
