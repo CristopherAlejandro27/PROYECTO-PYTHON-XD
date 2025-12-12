@@ -113,11 +113,11 @@ class Ui_LoginScreen(object):
         _translate = QtCore.QCoreApplication.translate
         LoginScreen.setWindowTitle(_translate("LoginScreen", "Login - Reportes"))
         self.titleLabel.setText(_translate("LoginScreen", "Sistema de Reportes"))
-        self.subtitleLabel.setText(_translate("LoginScreen", "Reporta incidencias rápidamente"))
-        self.loginTitleLabel.setText(_translate("LoginScreen", "Iniciar Sesión"))
+        self.subtitleLabel.setText(_translate("LoginScreen", "Reporta incidencias rapidamente"))
+        self.loginTitleLabel.setText(_translate("LoginScreen", "Iniciar Sesion"))
         self.txt_usuario.setPlaceholderText(_translate("LoginScreen", "Usuario"))
         self.contra.setPlaceholderText(_translate("LoginScreen", "Contraseña"))
-        self.iniciosesion.setText(_translate("LoginScreen", " Iniciar Sesión"))
+        self.iniciosesion.setText(_translate("LoginScreen", " Iniciar Sesion"))
 
 
 if __name__ == "__main__":
